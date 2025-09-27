@@ -23,14 +23,13 @@ A comprehensive data analysis for a leading global streaming platform to uncover
 
 ## 📂 Folder Structure
 - `data/` – dataset CSV files
-- `notebooks/` – Jupyter notebooks with EDA and analysis
+- `notebooks/` – Colab notebooks with EDA and analysis
 - `visuals/` – charts & figures generated from analysis
-- `src/` – Python scripts for cleaning, EDA, visualization, and insights
 - `reports/` – executive summary PDF for stakeholders
 
 ## 🔹 Usage
 1. Clone the repository.
 2. Install dependencies: `pip install -r requirements.txt`.
-3. Open `notebooks/streaming_platform_analysis.ipynb` in Jupyter or Colab.
+3. Open `notebooks/OTTplatformAnalysis.ipynb` in Jupyter or Colab.
 4. Run cells sequentially to reproduce analysis and visualizations.
 
