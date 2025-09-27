@@ -33,3 +33,12 @@ A comprehensive data analysis for a leading global streaming platform to uncover
 3. Open `notebooks/OTTplatformAnalysis.ipynb` in Jupyter or Colab.
 4. Run cells sequentially to reproduce analysis and visualizations.
 
+## 📑 Deliverables
+
+* 📘 Jupyter Notebook: step-by-step analysis
+* 📊 Visualizations: content insights
+* 📄 PDF Report: insights & recommendations for decision-making
+
+---
+
+
